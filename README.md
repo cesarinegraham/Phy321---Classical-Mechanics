@@ -1,5 +1,4 @@
-# Phy321---Classical-Mechanics
-Codes written in Python for MSU's Classical Mechanics course, taught by Dr. Hjorth-Jensen (hjensen@msu.edu).
+Codes written in Python for a Classical Mechanics course.
 
 The codes will cover the following topics both analytically and numerically:
 
